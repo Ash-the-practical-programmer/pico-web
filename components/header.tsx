@@ -2,6 +2,7 @@
 
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
+import PicoLogo from "./pico-logo"
 
 export default function Header() {
   return (
@@ -9,6 +10,7 @@ export default function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
+            <PicoLogo className="w-8 h-8 text-primary" />
             <span className="special-display text-2xl font-bold text-primary">pico</span>
           </div>
 
