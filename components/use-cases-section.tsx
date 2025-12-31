@@ -30,7 +30,7 @@ export default function UseCasesSection() {
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center space-y-4 mb-16">
-          <h2 className="font-serif text-4xl sm:text-5xl font-bold italic text-foreground">Built for real problems</h2>
+          <h2 className="special-display font-serif text-4xl sm:text-5xl font-bold text-foreground">Built for real problems</h2>
           <p className="text-base text-muted-foreground max-w-2xl mx-auto leading-relaxed">
             Leading computer vision teams use Pico to accelerate their projects.
           </p>

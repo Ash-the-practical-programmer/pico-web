@@ -19,7 +19,7 @@ export default function HeroSection() {
           </div>
 
           <div className="space-y-6 max-w-3xl">
-            <h1 className="font-serif text-5xl sm:text-6xl lg:text-7xl font-bold italic text-foreground leading-tight">
+            <h1 className="special-display font-serif text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground leading-tight">
               Perfect datasets,
               <span className="text-secondary"> instantly</span>
             </h1>

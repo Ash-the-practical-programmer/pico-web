@@ -11,7 +11,7 @@ export default function CTASection() {
       <div className="absolute bottom-20 right-16 w-1 h-1 bg-secondary/30 rounded-full" />
 
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 text-center relative z-10">
-        <h2 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-bold italic mb-6 text-foreground leading-tight">
+        <h2 className="special-display font-serif text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 text-foreground leading-tight">
           Ready to build <span className="text-secondary">better datasets?</span>
         </h2>
         <p className="text-base sm:text-lg text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
